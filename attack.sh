@@ -27,10 +27,6 @@ helpMenu(){
 
 
 # Test wordpress url
-testUrl(){
-    CHECK_URL=`curl -o /dev/null --silent --head --write-out '%{http_code}\n' https://moviexpressrf.gd/wp-login.php`
-    if [ "$CHECK_URL" -ne 200 ]; then echo -e "Url error: https://moviexpressrf.gd\nHTTP CODE: $CHECK_URL"; ; fi
-}
 
 # User Enumeration
 userEnum(){
