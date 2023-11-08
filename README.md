@@ -12,7 +12,7 @@
   <a href="https://travis-ci.com/thenurhabib/wphunter">
     <img src="https://img.shields.io/travis/com/thenurhabib/wphunter.svg">
   </a>
-  <a href="https://github.com/thenurhabib/wphunter/issues?q=is%3Aissue+is%3Aclosed">
+  <a href="https://github.com/sajanchahal/wphunter/issues?q=is%3Aissue+is%3Aclosed">
       <img src="https://img.shields.io/github/issues-closed-raw/thenurhabib/wphunter.svg">
   </a>
 </p>
