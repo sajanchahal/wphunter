@@ -42,7 +42,7 @@
 ### Documentation
 ### install
 ```yaml
-git clone https://github.com/thenurhabib/wphunter.git
+git clone https://github.com/sajanchahal/wphunter.git
 cd wphunter
 chmod -R 777 attack.sh
 ./attack.sh
